@@ -14,3 +14,4 @@
 -------
 40min - kahoot
 75min - Ajustement de l'affichage sur l'appli flashcard
+20min - Configuration de expo go et tests de déploiement sur smartphone avec react native
